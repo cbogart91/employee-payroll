@@ -7,7 +7,8 @@ const addEmployeesBtn = document.querySelector('#add-employees-btn');
   // const last = prompt("Please enter last name");
   // const salary = prompt("Please enter salary");
 
-
+addEmployeesBtn.addEventListener('click' , function() {
+});
 // Collect employee data
 
 const collectEmployees = function() {
